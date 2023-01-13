@@ -1,2 +1,7 @@
-# cypress-examples
-Some homework examples on the Cypress framework
+### Как запустить автотесты?
+
+1. Установить node.js: https://nodejs.org/en/download/
+2. Скачать проект из github
+3. Открыть в папке с проектом терминал
+4. Запустить автотесты командой `npm run test` 
+5. Все новые тесты нужно писать в папке /e2e
